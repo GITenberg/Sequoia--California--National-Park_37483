@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9338'
     url: http://www.gutenberg.org/2009/agents/9338
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37483#Sequoia--California--National-Park
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
 identifiers:
